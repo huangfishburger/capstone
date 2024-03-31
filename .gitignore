@@ -32,3 +32,4 @@ Thumbs.db
 *.csv
 /data/
 /loc_data/
+/building_data/
